@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background: radial-gradient(rgba(136, 188, 201, 0.7), rgb(158, 128, 167));
+  min-height: 100vh;
+}
