@@ -27,7 +27,7 @@ const Finish = ({ handleRestart, showModal, bestScore, moves }) => {
           </DialogContentText>
         </DialogContent>
         <DialogActions>
-          <Button onClick={handleRestart} color="primary">
+          <Button onClick={handleRestart} color="primaryvkey">
             Restart
           </Button>
         </DialogActions>
