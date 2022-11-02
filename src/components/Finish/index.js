@@ -19,7 +19,7 @@ const Finish = ({ handleRestart, showModal, bestScore, moves }) => {
       >
         <h2>Val_Game</h2>
         <DialogTitle id="alert-dialog-title">
-          Waww !!! game is completed, choose what to do !!
+          Waww !!! game is completed, Do you want to continue ?
         </DialogTitle>
         <DialogContent>
           <DialogContentText id="alert-dialog-description">
